@@ -23,7 +23,7 @@ const linkedIn =
   chalk.grey("https://linkedin.com/in/") + chalk.blue("cassio-gabriel-costa-santos");
 
 const rotCartao = chalk.white.bold("Cartão:".padStart(9));
-const cartao = chalk.red("npx") + " " + chalk.white("cassiosantos");
+const cartao = chalk.red("npx") + " " + chalk.white("cgcdoss");
 
 let saida = chalk.green(`   ${nome} / ${apelido}\n\n`);
 saida += `${rotOcupacao} ${ocupacao}\n\n`;

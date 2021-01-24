@@ -1,24 +1,24 @@
 {
-  "name": "tiagolpadua",
-  "version": "2.0.0",
+  "name": "cgcdoss",
+  "version": "1.0.0",
   "description": "Cartão pessoal em Node.JS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "tiagolpadua": "./bin/card.js"
+    "cgcdoss": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tiagolpadua/tiagolpadua.git"
+    "url": "git+https://github.com/cgcdoss/cassiosantos.git"
   },
-  "author": "Tiago Lage Payne de Pádua",
+  "author": "Cássio Gabriel Costa dos Santos",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tiagolpadua/tiagolpadua/issues"
+    "url": "https://github.com/cgcdoss/cassiosantos/issues"
   },
-  "homepage": "https://github.com/tiagolpadua/tiagolpadua#readme",
+  "homepage": "https://github.com/cgcdoss/cassiosantos#readme",
   "dependencies": {
     "boxen": "^4.2.0",
     "chalk": "^3.0.0"
