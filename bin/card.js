@@ -3,27 +3,27 @@
 const chalk = require("chalk");
 const boxen = require("boxen");
 
-const nome = chalk.white("Tiago Lage Payne de Pádua");
-const apelido = chalk.white("tiagolpadua");
+const nome = chalk.white("Cássio Gabriel Costa dos Santos");
+const apelido = chalk.white("cgcdoss");
 
 const rotOcupacao = chalk.white.bold("Ocupação:");
-const ocupacao = chalk.white("Analista Sênior no Banco do Brasil");
+const ocupacao = chalk.white("Consultor de Soluções Digitais na Capgemini");
 
 const rotTwitter = chalk.white.bold("Twitter:".padStart(9));
-const twitter = chalk.grey("https://twitter.com/") + chalk.cyan("tiagolpadua");
+const twitter = chalk.grey("https://twitter.com/") + chalk.cyan("cgcdoss");
 
 const rotGithub = chalk.white.bold("GMail:".padStart(9));
-const github = chalk.yellow("tiagolpadua@gmail.com");
+const github = chalk.yellow("cgcdoss1@gmail.com");
 
 const rotGmail = chalk.white.bold("GitHub:".padStart(9));
-const gmail = chalk.grey("https://github.com/") + chalk.green("tiagolpadua");
+const gmail = chalk.grey("https://github.com/") + chalk.green("cgcdoss");
 
 const rotLinkedIn = chalk.white.bold("LinkedIn:");
 const linkedIn =
-  chalk.grey("https://linkedin.com/in/") + chalk.blue("tiagolpadua");
+  chalk.grey("https://linkedin.com/in/") + chalk.blue("cassio-gabriel-costa-santos");
 
 const rotCartao = chalk.white.bold("Cartão:".padStart(9));
-const cartao = chalk.red("npx") + " " + chalk.white("tiagolpadua");
+const cartao = chalk.red("npx") + " " + chalk.white("cassiosantos");
 
 let saida = chalk.green(`   ${nome} / ${apelido}\n\n`);
 saida += `${rotOcupacao} ${ocupacao}\n\n`;
