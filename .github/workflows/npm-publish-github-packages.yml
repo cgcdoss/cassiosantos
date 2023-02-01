@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions: 
       contents: read
-      packages: write_package
+      packages: write
     steps:
       - uses: actions/checkout@v3
       # Setup .npmrc file to publish to npm
