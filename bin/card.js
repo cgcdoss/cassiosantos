@@ -7,7 +7,7 @@ const nome = chalk.white("Cássio Gabriel Costa dos Santos");
 const apelido = chalk.white("cgcdoss");
 
 const rotOcupacao = chalk.white.bold("Ocupação:");
-const ocupacao = chalk.white("Mid Frontend Developer na Invillia");
+const ocupacao = chalk.white("Dev Frontend Sênior na Credsystem");
 
 const rotTwitter = chalk.white.bold("Twitter:".padStart(9));
 const twitter = chalk.grey("https://twitter.com/") + chalk.cyan("cgcdoss");
